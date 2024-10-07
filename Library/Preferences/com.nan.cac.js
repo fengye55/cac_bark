@@ -3,7 +3,13 @@
     {
       "enable": 1,
       "name": "Bark",
-      "url": "https://apps.apple.com/cn/app/id1403753865"
+      "url": "https://apps.apple.com/cn/app/id1403753865",
+      "bark": {
+        "title": {
+          "cache": "来自 cac - Bark",
+          "del": "来自 cac - Bark",
+          "up": "来自 cac - Bark"
+        }
     },
     {
       "enable": 1,
