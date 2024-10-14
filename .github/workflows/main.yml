@@ -39,7 +39,7 @@ jobs:
           
       - name: download cac
         run: |
-          sudo curl -L -o '/usr/bin/cac' 'https://raw.githubusercontent.com/invalidunit/check_change/main/cac'
+          sudo curl -L -o '/usr/bin/cac' 'https://raw.githubusercontent.com/invalidunit/check_change/main/bark/cac'
           sudo chmod -R 0755 '/usr/bin/cac'
 
       - name: cac
