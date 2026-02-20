@@ -51,6 +51,11 @@
     },
     {
       "enable": 1,
+      "name": "GitHub",
+      "url": "https://apps.apple.com/us/app/github/id1477376905"
+    },
+    {
+      "enable": 1,
       "name": "QQ 音乐",
       "url": "https://apps.apple.com/cn/app/id414603431",
       "bark": {
