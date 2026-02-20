@@ -63,11 +63,6 @@
     },
     {
       "enable": 1,
-      "name": "Identity V",
-      "url": "https://apps.apple.com/us/app/id1347780764"
-    },
-    {
-      "enable": 1,
       "name": "CareServer",
       "url": "https://apps.apple.com/cn/app/id6474921250"
     },
