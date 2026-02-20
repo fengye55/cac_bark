@@ -52,7 +52,7 @@
     {
       "enable": 1,
       "name": "GitHub",
-      "url": "https://apps.apple.com/us/app/github/id1477376905"
+      "url": "https://apps.apple.com/us/app/id1477376905"
     },
     {
       "enable": 1,
