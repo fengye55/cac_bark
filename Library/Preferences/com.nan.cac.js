@@ -46,21 +46,6 @@
     },
     {
       "enable": 1,
-      "name": "原神",
-      "url": "https://apps.apple.com/cn/app/id1467190251"
-    },
-    {
-      "enable": 1,
-      "name": "崩坏：星穹铁道",
-      "url": "https://apps.apple.com/cn/app/id1523037824"
-    },
-    {
-      "enable": 1,
-      "name": "第五人格",
-      "url": "https://apps.apple.com/cn/app/id1330863325"
-    },
-    {
-      "enable": 1,
       "name": "Surge",
       "url": "https://apps.apple.com/us/app/id1442620678"
     },
