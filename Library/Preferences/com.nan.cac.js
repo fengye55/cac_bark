@@ -91,7 +91,7 @@
   ],
   "enable": 1,
   "bark": {
-    "is_archive": 0,
+    "is_archive": 1,
     "Hello_World": 0,
     "level": "active",
     "title": {
