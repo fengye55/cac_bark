@@ -56,6 +56,11 @@
     },
     {
       "enable": 1,
+      "name": "元梦之星",
+      "url": "https://apps.apple.com/cn/app/id1632344522"
+    },
+    {
+      "enable": 1,
       "name": "QQ 音乐",
       "url": "https://apps.apple.com/cn/app/id414603431",
       "bark": {
