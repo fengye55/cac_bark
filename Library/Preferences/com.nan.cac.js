@@ -51,6 +51,11 @@
     },
     {
       "enable": 1,
+      "name": "Loon",
+      "url": "https://apps.apple.com/us/app/id1373567447"
+    },
+    {
+      "enable": 1,
       "name": "GitHub",
       "url": "https://apps.apple.com/us/app/id1477376905"
     },
