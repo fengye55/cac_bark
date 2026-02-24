@@ -115,6 +115,6 @@
       "del": "app_bundle\\n可能已下架，最后出现版本为：\\napp_version\\n从 cac 配置文件中移除 app_id 以避免不必要的消耗",
       "up": "发现变更：\\n版本：app_version"
     },
-    "sound": "healthnotification"
+    "sound": "in"
   }
 }
